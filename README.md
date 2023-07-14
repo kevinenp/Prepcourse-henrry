@@ -1,2 +1,2 @@
 # Prepcourse-henrry
-este es un repositorio de prueba del modulo 2 de henry
+prueba de como crear un repositorio y clonarlo con gut bash...esta dificil
